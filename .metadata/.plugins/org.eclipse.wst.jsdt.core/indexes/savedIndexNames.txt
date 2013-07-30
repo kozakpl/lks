@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+D:\lks\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2924990376.index
+408102261.index
+3888644588.index
+3633795945.index
+3057428721.index
