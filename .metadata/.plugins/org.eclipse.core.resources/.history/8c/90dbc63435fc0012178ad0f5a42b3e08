@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tiles-deifinitions>
+	<definition>
+		<put-attribute name="title" value="SivaLabs" />
+		<put-attribute name="body" value="/jsp/schedule.jsp" />
+
+	</definition>
+
+</tiles-deifinitions>

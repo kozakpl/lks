@@ -1,0 +1,5 @@
+package pl.kozak.lks.models;
+
+public class Team {
+
+}
